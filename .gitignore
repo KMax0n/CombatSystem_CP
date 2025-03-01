@@ -1,0 +1,4 @@
+# UnrealEngine files to ignore
+*.sln
+Intermediate
+Saved
